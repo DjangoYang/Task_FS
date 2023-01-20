@@ -27,8 +27,7 @@ or
 `yarn add redux react-redux redux-thunk normalizr`
 
 
-## how all this can be implemented on AWS. What all
-services will be used from the available list of services by AWS
+## how all this can be implemented on AWS. What all services will be used from the available list of services by AWS
 
 using AWS ec2 to deploy backend and rds for database
 
